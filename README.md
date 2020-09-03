@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## My name's Jonathan. Here are some details about me:
+### Hi there 👋  My name's Jonathan. Here are some details about me:
 
 <!--
 **jonathanthec/jonathanthec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
