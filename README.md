@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on full stack web appplications using Javascript
+- 🔭 I’m currently working on full stack web appplications using JavaScript and its frameworks, i.e. React
 - 🌱 I’m currently learning building full stack GUI applications using Java
-- 👯 I’m looking to collaborate on any fun ideas that you'd like to shared with me
+- 👯 I’m looking to collaborate on any fun ideas that you'd like to shared with me, especially on game dev
 - 💬 Ask me about anything web dev or computer science related
 - 📫 How to reach me: https://jonathanthec.github.io/
 - 😄 Pronouns: he/his/him
