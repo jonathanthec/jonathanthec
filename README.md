@@ -6,8 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on full stack web appplications using JavaScript and its frameworks, i.e. React; learning to do the same with Java :)
-- 🌱 I’m currently learning building full stack GUI applications using Java
+- 🔭 Knows Java, JavaScript(react, Node), Python
 - 👯 I’m looking to collaborate on any fun ideas that you'd like to shared with me, especially on game dev
 - 💬 Ask me about anything web dev or computer science related
 - 📫 How to reach me: https://jonathanthec.github.io/
