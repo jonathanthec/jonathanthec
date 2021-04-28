@@ -6,10 +6,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 Knows Java, JavaScript(react, Node), Python
-- 👯 I’m looking to collaborate on any fun ideas that you'd like to shared with me, especially on game dev
-- 💬 Ask me about anything web dev or computer science related
-- 📫 How to reach me: https://jonathanthec.github.io/
+- 🔭 Knows Java, JavaScript(React, Node), Python
+- 👯 Open to collaborate on any fun ideas that you'd like to shared with me
+- 💬 Love to talk! 
+- 📫 Currently working as SE at ServiceNow
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: I love outdoor activities such as backpacking, canoing, and more!
 
